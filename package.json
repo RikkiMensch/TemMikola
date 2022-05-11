@@ -1,0 +1,20 @@
+{
+  "name": "mikolabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.57.0",
+    "save-dev": "^0.0.1-security",
+    "telegraf": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
